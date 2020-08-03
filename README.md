@@ -1,0 +1,2 @@
+# Nirengi
+Nirengi Noktaları Kontrolü
