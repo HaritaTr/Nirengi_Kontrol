@@ -1,2 +1,1 @@
-# Nirengi
-Nirengi Noktaları Kontrolü
+# Nirengi Noktaları Kontrolü
